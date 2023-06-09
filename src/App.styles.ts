@@ -39,8 +39,8 @@ export const Wrapper = styled.div`
   }
 
   h1 {
-    font-family: Fascinate Inline, Haettenschweiler, "Arial Narrow Bold",
-      sans-serif;
+    color: white;
+    font-family: Righteous, Haettenschweiler, "Arial Narrow Bold", sans-serif;
     background-size: 100%;
     background-clip: text;
     --webkit-background-clip: text;
